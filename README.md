@@ -14,7 +14,7 @@ live Demo - https://hussam2717.github.io/Real-Time-Currency-Converter/
 ## 🛠️ Tech Stack
 - HTML5
 - CSS3
-- JavaScript (Vanilla JS)
+- JavaScript
 
 ## ⚙️ How It Works
 1. Enter the amount
